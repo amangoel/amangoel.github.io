@@ -1,2 +1,0 @@
-# amangoel.github.io
-Blog
