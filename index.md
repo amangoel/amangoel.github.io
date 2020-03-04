@@ -1,5 +1,5 @@
 ## This is the virtual home of Aman Goel. Welcome!
 
-[beta](./alpha) 
+[Coronavirus: A demonstration of the world-order's fragility](./corona) 
 
 
